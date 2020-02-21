@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.3;
+}
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  background-image: linear-gradient(
+    120deg,
+    rgba(219, 102, 127, 1) 22%,
+    rgba(239, 123, 107, 1) 83%
+  );
+  color: white;
+}
+
+.container {
+  margin: 50px 20px;
+}
+
+.container p {
+  font-size: 2rem;
+}
+
+.bear-img {
+  max-height: 500px;
+  width: auto;
+  margin: 20px;
+}
